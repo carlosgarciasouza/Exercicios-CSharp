@@ -1,0 +1,15 @@
+C:\Users\cegsouza\OneDrive - COPERSUCAR S.A\Documentos\GitHub - projects\Exercicios-CSharp\ConsoleApp test\bin\Debug\net6.0\ConsoleApp test.exe
+C:\Users\cegsouza\OneDrive - COPERSUCAR S.A\Documentos\GitHub - projects\Exercicios-CSharp\ConsoleApp test\bin\Debug\net6.0\ConsoleApp test.deps.json
+C:\Users\cegsouza\OneDrive - COPERSUCAR S.A\Documentos\GitHub - projects\Exercicios-CSharp\ConsoleApp test\bin\Debug\net6.0\ConsoleApp test.runtimeconfig.json
+C:\Users\cegsouza\OneDrive - COPERSUCAR S.A\Documentos\GitHub - projects\Exercicios-CSharp\ConsoleApp test\bin\Debug\net6.0\ConsoleApp test.dll
+C:\Users\cegsouza\OneDrive - COPERSUCAR S.A\Documentos\GitHub - projects\Exercicios-CSharp\ConsoleApp test\bin\Debug\net6.0\ConsoleApp test.pdb
+C:\Users\cegsouza\OneDrive - COPERSUCAR S.A\Documentos\GitHub - projects\Exercicios-CSharp\ConsoleApp test\obj\Debug\net6.0\ConsoleApp test.csproj.AssemblyReference.cache
+C:\Users\cegsouza\OneDrive - COPERSUCAR S.A\Documentos\GitHub - projects\Exercicios-CSharp\ConsoleApp test\obj\Debug\net6.0\ConsoleApp test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cegsouza\OneDrive - COPERSUCAR S.A\Documentos\GitHub - projects\Exercicios-CSharp\ConsoleApp test\obj\Debug\net6.0\ConsoleApp test.AssemblyInfoInputs.cache
+C:\Users\cegsouza\OneDrive - COPERSUCAR S.A\Documentos\GitHub - projects\Exercicios-CSharp\ConsoleApp test\obj\Debug\net6.0\ConsoleApp test.AssemblyInfo.cs
+C:\Users\cegsouza\OneDrive - COPERSUCAR S.A\Documentos\GitHub - projects\Exercicios-CSharp\ConsoleApp test\obj\Debug\net6.0\ConsoleApp test.csproj.CoreCompileInputs.cache
+C:\Users\cegsouza\OneDrive - COPERSUCAR S.A\Documentos\GitHub - projects\Exercicios-CSharp\ConsoleApp test\obj\Debug\net6.0\ConsoleApp test.dll
+C:\Users\cegsouza\OneDrive - COPERSUCAR S.A\Documentos\GitHub - projects\Exercicios-CSharp\ConsoleApp test\obj\Debug\net6.0\refint\ConsoleApp test.dll
+C:\Users\cegsouza\OneDrive - COPERSUCAR S.A\Documentos\GitHub - projects\Exercicios-CSharp\ConsoleApp test\obj\Debug\net6.0\ConsoleApp test.pdb
+C:\Users\cegsouza\OneDrive - COPERSUCAR S.A\Documentos\GitHub - projects\Exercicios-CSharp\ConsoleApp test\obj\Debug\net6.0\ConsoleApp test.genruntimeconfig.cache
+C:\Users\cegsouza\OneDrive - COPERSUCAR S.A\Documentos\GitHub - projects\Exercicios-CSharp\ConsoleApp test\obj\Debug\net6.0\ref\ConsoleApp test.dll

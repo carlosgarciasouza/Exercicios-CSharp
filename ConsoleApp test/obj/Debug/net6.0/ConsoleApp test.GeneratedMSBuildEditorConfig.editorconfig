@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = ConsoleApp1
-build_property.ProjectDir = C:\Users\cegsouza\OneDrive - COPERSUCAR S.A\Documentos\GitHub - projects\Exercicios-CSharp\Verificar Idade\
+build_property.RootNamespace = ConsoleApp_test
+build_property.ProjectDir = C:\Users\cegsouza\OneDrive - COPERSUCAR S.A\Documentos\GitHub - projects\Exercicios-CSharp\ConsoleApp test\
